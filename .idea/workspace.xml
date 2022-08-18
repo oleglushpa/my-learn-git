@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0611b508-002d-4973-bd73-19dc1ab1cc9b" name="Changes" comment="add3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="0611b508-002d-4973-bd73-19dc1ab1cc9b" name="Changes" comment="Добавили заголовок">
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +18,24 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -51,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660815871055</updated>
-      <workItem from="1660815873668" duration="617000" />
+      <workItem from="1660815873668" duration="1057000" />
     </task>
     <task id="LOCAL-00001" summary="add2">
       <created>1660816101384</created>
@@ -74,7 +91,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660816226217</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Добавили заголовок">
+      <created>1660816566393</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660816566393</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Добавили заголовок">
+      <created>1660816604069</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1660816604069</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +126,7 @@
     <MESSAGE value="add2" />
     <MESSAGE value="add23" />
     <MESSAGE value="add3" />
-    <option name="LAST_COMMIT_MESSAGE" value="add3" />
+    <MESSAGE value="Добавили заголовок" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавили заголовок" />
   </component>
 </project>
